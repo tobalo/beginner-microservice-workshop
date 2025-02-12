@@ -1,0 +1,5 @@
+lab/__pycache__/
+lab/.venv
+lab/fastapi-sqlite/__pycache__/
+lab/fastapi-sqlite/.venv
+lab/fastapi-sqlite/items.db
